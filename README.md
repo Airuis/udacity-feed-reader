@@ -9,7 +9,7 @@
 
 Load the feed reader test suite by unzipping all of the files and folders to a directory on your computer, and open the index.html file in your favorite browser. You can add or modify the current specs by editing the "feedreader.js" file in the "jasmine/spec" directory.
 
-The current spects test four main features of the feed reader:
+The current specs test four main features of the feed reader:
 
 - If there are RSS feeds defined in the array being used to populate the content, and whether the items have URLs and names.
 
